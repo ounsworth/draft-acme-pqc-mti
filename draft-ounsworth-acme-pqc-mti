@@ -64,7 +64,6 @@ is replaced with:
 
 This document enhances security by removing the requirement for implementations to support soon-to-be-weak algorithms and requiring instead mandatory support for the quantum-safe ML-DSA-65 signature algorithm.
 
-
 # IANA Considerations {#iana}
 
 This document has no IANA actions.
