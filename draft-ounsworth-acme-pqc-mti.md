@@ -45,7 +45,7 @@ The ACME protocol specified in RFC8555 requires all implementations to support t
 
 # Update to RFC8555 {#intro}
 
-Due to the impending risks of Cryptographically-Relevant Quantum Computers (CRQCs), {{!RFC8555}} is updated to replace the following sentence from Section 6.2:
+Due to the impending risks of Cryptographically-Relevant Quantum Computers (CRQCs), see {{?RFC9958}}, {{!RFC8555}} is updated to replace the following sentence from Section 6.2:
 
 > An ACME server MUST implement the "ES256" signature algorithm
    [RFC7518] and SHOULD implement the "EdDSA" signature algorithm using
