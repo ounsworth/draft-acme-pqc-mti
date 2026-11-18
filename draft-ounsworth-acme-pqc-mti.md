@@ -27,7 +27,7 @@ venue:
 author:
  -
     fullname: "Mike Ounsworth"
-    organization: Your Organization Here
+    organization: Cryptic Forest Software
     email: "mike@ounsworth.ca"
 
 normative:
