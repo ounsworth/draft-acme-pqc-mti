@@ -3,7 +3,7 @@ title: "ACME Post-Quantum Mandatory-To-Implement JWT Algorithm"
 abbrev: "acme-pqc-mti"
 category: info
 
-docname: draft-ounsworth-acme-no-mti-latest
+docname: draft-ounsworth-acme-pqc-mti-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 updates: 8555
