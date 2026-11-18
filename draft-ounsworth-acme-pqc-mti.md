@@ -21,8 +21,8 @@ venue:
   type: "Working Group"
   mail: "acme@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/acme/"
-  github: "ounsworth/draft-acme-no-mti"
-  latest: "https://ounsworth.github.io/draft-acme-no-mti/draft-ounsworth-acme-no-mti.html"
+  github: "ounsworth/draft-acme-pqc-mti"
+  latest: "https://ounsworth.github.io/draft-acme-pqc-mti/draft-ounsworth-acme-pqc-mti.html"
 
 author:
  -
